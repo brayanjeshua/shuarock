@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 You can reach me at: <info@brayanjeshua.com>.
 
-[Web[website]
+[Web][website]
 [LinkedIn][linkedin]
 [E-mail][gmail]
 
