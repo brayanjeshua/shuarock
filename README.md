@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 You can reach me at: <info@brayanjeshua.com>.
 
-[<img alt="Brayan Jeshua | website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="32px" />][website]
-[<img alt="Brayan Jeshua | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" />][linkedin]
-[<img alt="Brayan Jeshua | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail]
+[Web[website]
+[LinkedIn][linkedin]
+[E-mail][gmail]
 
 [website]: https://brayanjeshua.com/
 [gmail]: mailto:info@brayanjeshua.com
