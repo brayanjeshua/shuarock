@@ -1,18 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Brayan Jeshua</h1>
 
-<p align="center">
-  
-  <!--a href=https://codepen.io/andresparrago target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a-->
-  
-  <a href=https://www.facebook.com/jeshuadev/ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
-  
-  <!--a href=https://twitter.com/AndresParraGar4 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a-->
-  
-  <a href=https://www.linkedin.com/in/jeshuadev/ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-  
-  <a href=https://www.instagram.com/mr.brayanjeshua/ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
-</p>
-
 
 <h3 align="center">A young frontend developer from Italy </h3>
 
